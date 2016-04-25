@@ -7,3 +7,5 @@ This repository hosts original scripts from all the materials offered on this co
 The topics covered so far are:
   1. An introduction to analytics
   2. Linear regression
+
+* Please note that this is a work in progress, I will upload the scripts as soon as I finnish them.
