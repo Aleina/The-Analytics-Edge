@@ -3,7 +3,7 @@
 
 ### All the scripts I made for the MITx 15.071x course.
 
-Includes original scripts from all the materials offered on this courses, like lectures, recitations and both the obligatory and optional assignments.
+This repository hosts original scripts from all the materials offered on this courses and the respective datasets. This includes the lectures, recitations and both the obligatory and optional assignments.
 The topics covered so far are:
-  1. Working o data
+  1. An introduction to analytics
   2. Linear regression
